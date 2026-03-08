@@ -2,7 +2,7 @@
 ### 8/03/2026
 
 Tried to write down a basic components list to see how budget would look like & to not forget stuff! \
-\
+
 - Screen :
   - ATNA33XC11 looks like a good option (1080p, 166 ppi, 13.3 inch amoled!) 
 - CPU thingy:
